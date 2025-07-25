@@ -12,5 +12,5 @@ This project presents an interactive and visually appealing dashboard built usin
 -> Data Modeling & DAX
 -> Interactive Visualizations
 
-<img width="1338" height="747" alt="Details" src="https://github.com/user-attachments/assets/c2348fce-84e9-476e-a4d3-59c43b440358" />
 <img width="1344" height="753" alt="Overview" src="https://github.com/user-attachments/assets/57bef7dc-bc1b-4711-bed2-2e76a0d8c8dc" />
+<img width="1338" height="747" alt="Details" src="https://github.com/user-attachments/assets/c2348fce-84e9-476e-a4d3-59c43b440358" />
